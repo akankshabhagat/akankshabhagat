@@ -1,6 +1,6 @@
 # Hi there! I'm Akanksha 👋
 
-🌍 **Indian-based Developer** passionate about learning and contributing to the tech community through hackathons, open-source projects, and collaborations.
+🌍 **India-based Developer** passionate about learning and contributing to the tech community through hackathons, open-source projects, and collaborations.
 
 ### 💻 Tech Stack:
 - 🛠️ **Languages**: Java, JavaScript, Python, SQL, C
