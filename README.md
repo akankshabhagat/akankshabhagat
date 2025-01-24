@@ -1,29 +1,61 @@
 # Hi there! I'm Akanksha 👋
 
-🌍 **India-based Developer** passionate about learning and contributing to the tech community through hackathons, open-source projects, and collaborations.
+🌍 **India-based Developer** passionate about learning, collaborating, and creating impactful solutions in the tech community through **hackathons**, **open-source projects**, and **innovative collaborations**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast)
 
-### 💻 Tech Stack:
-- 🛠️ **Languages**: Java, JavaScript, Python, SQL, C
-- 🌐 **Backend** & **Frontend** exploration
-- 🚀 **WEB3** enthusiast | 🔮 **AI/ML** dabbling
-- 🎨 **UI/UX** curious | Learning to make things look as good as they work!
-
-### 🏆 What drives me:
-- 💬 I love engaging with like-minded people in the community.
-- ❤️ Whether it’s building in hackathons or brainstorming in open-source, I'm all in!
-- 🍀 Tried my hand at a bit of everything, from **Backend** to **Frontend** to **AI/ML**, and always hungry to learn more!
-[![trophy](https://github-profile-trophy.vercel.app/?username=akankshabhagat)](https://github.com/ryo-ma/github-profile-trophy)
-### 📫 Let’s collaborate:
-I welcome all kinds of contributions to my projects! Feel free to share ideas, issues, or just say hi. Let's build something awesome together!
-
-[![An image of @akankshabhagat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akankshabhagat)](https://holopin.io/@akankshabhagat)
 
 ---
 
-### 🚀 Currently Exploring:
-- Gaming(valo,csgo)
-- Backend frameworks, AI/ML, and some **WEB3** magic! ✨
+### 💻 Tech Stack:
+- **Programming Languages:**  
+  ![Java](https://skillicons.dev/icons?i=java&theme=light) ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=light) ![Python](https://skillicons.dev/icons?i=python&theme=light) ![SQL](https://skillicons.dev/icons?i=mysql&theme=light) ![C](https://skillicons.dev/icons?i=c&theme=light)
+- **Frameworks & Libraries:**  
+  ![React](https://skillicons.dev/icons?i=react&theme=light) ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light) ![Flask](https://skillicons.dev/icons?i=flask&theme=light) ![Django](https://skillicons.dev/icons?i=django&theme=light) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=light)
+- **AI/ML Tools:**  
+  ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=light) ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=light) ![Keras](https://skillicons.dev/icons?i=keras&theme=light) ![Scikit-learn](https://skillicons.dev/icons?i=scikit-learn&theme=light) ![Pandas](https://skillicons.dev/icons?i=pandas&theme=light)
+- **Web3 and Cloud:**  
+  ![Metamask](https://skillicons.dev/icons?i=web3&theme=light) ![GCP](https://skillicons.dev/icons?i=gcp&theme=light)
+- **Database & Tools:**  
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) ![Streamlit](https://skillicons.dev/icons?i=streamlit&theme=light) ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![Groq](https://skillicons.dev/icons?i=groq&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light)
+- **Tools & Platforms:**  
+  ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) ![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)
 
-**Let's connect and grow together!** 😊
+---
+
+### 🌟 About Me:
+- 🌱 Exploring **Backend technologies**, **AI/ML models**, and innovative solutions in **Devops**.  
+- 🔍 Currently diving deep into **machine learning**, **Backend development,web devlopement**, and **data visualization techniques**.  
+- 🎮 A passionate **gamer**, constantly exploring the intersection of gaming and tech.  
+- 💬 I love sharing knowledge and collaborating on **open-source projects** that make an impact.  
+- 🌍 Actively participating in **hackathons** and **tech meetups** to connect with like-minded innovators.  
+
+---
+
+### 🏆 Achievements:
+- 🥇 Contributed to top projects in **Hackathons** and recognized for innovative solutions in **python,AI/ML** and **JS**.  
+- 🌟 Core contributor to **open-source python projects** and **AI/ML enthusiasts**.  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=akankshabhagat&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 My GitHub Stats:
+<div align="center">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshabhagat&theme=radical" alt="Streak Counter" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akankshabhagat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akankshabhagat&theme=2077" height="180em" />
+</div>
+
+---
+
+### 🌐 Connect with Me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/akankshabhagat/)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=firefox)](https://portfolio-livid-one-85.vercel.app/)  
+- 📧 Email: (akankshabhagat606@gmail.com)
+
+---
+
+### 🌟 Badges:
+[![An image of @akankshabhagat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akankshabhagat)](https://holopin.io/@akankshabhagat)
 
 
