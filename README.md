@@ -3,7 +3,16 @@
 🌍 **India-based Developer** passionate about learning, collaborating, and creating impactful solutions in the tech community through **hackathons**, **open-source projects**, and **innovative collaborations**.
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast)
 
+---
 
+### 🌟 About Me:
+- 🌱 Exploring **Backend technologies**, **AI/ML models**, and innovative solutions in **Devops**.  
+- 🔍 Currently diving deep into **machine learning**, **Backend development,web devlopement**, and **data visualization techniques**.  
+- 🎮 A passionate **gamer**, constantly exploring the intersection of gaming and tech.  
+- 💬 I love sharing knowledge and collaborating on **open-source projects** that make an impact.  
+- 🌍 Actively participating in **hackathons** and **tech meetups** to connect with like-minded innovators.  
+
+---
 ---
 
 ### 💻 Tech Stack:
@@ -19,15 +28,6 @@
   ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=light) ![Streamlit](https://skillicons.dev/icons?i=streamlit&theme=light) ![Postman](https://skillicons.dev/icons?i=postman&theme=light) ![Groq](https://skillicons.dev/icons?i=groq&theme=light) ![Selenium](https://skillicons.dev/icons?i=selenium&theme=light)
 - **Tools & Platforms:**  
   ![Git](https://skillicons.dev/icons?i=git&theme=light) ![Docker](https://skillicons.dev/icons?i=docker&theme=light) ![VSCode](https://skillicons.dev/icons?i=vscode&theme=light)
-
----
-
-### 🌟 About Me:
-- 🌱 Exploring **Backend technologies**, **AI/ML models**, and innovative solutions in **Devops**.  
-- 🔍 Currently diving deep into **machine learning**, **Backend development,web devlopement**, and **data visualization techniques**.  
-- 🎮 A passionate **gamer**, constantly exploring the intersection of gaming and tech.  
-- 💬 I love sharing knowledge and collaborating on **open-source projects** that make an impact.  
-- 🌍 Actively participating in **hackathons** and **tech meetups** to connect with like-minded innovators.  
 
 ---
 
