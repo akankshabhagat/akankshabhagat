@@ -1,7 +1,8 @@
 # Hi there! I'm Akanksha 👋
 
 🌍 **India-based Developer** passionate about learning, collaborating, and creating impactful solutions in the tech community through **hackathons**, **open-source projects**, and **innovative collaborations**.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=500&color=FFA500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=40&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast)
+
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
