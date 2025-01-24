@@ -12,7 +12,7 @@
 - 💬 I love engaging with like-minded people in the community.
 - ❤️ Whether it’s building in hackathons or brainstorming in open-source, I'm all in!
 - 🍀 Tried my hand at a bit of everything, from **Backend** to **Frontend** to **AI/ML**, and always hungry to learn more!
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=akankshabhagat)](https://github.com/ryo-ma/github-profile-trophy)
 ### 📫 Let’s collaborate:
 I welcome all kinds of contributions to my projects! Feel free to share ideas, issues, or just say hi. Let's build something awesome together!
 
